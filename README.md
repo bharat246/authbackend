@@ -17,6 +17,14 @@
 - JWT Authentication
 - Protected Routes
 
+## Live API URL
+
+https://authbackend-cj9c.onrender.com
+
+## Postman Documentation
+
+https://documenter.getpostman.com/view/39625050/2sBXwmRCz1
+
 ## Installation
 
 ```bash
